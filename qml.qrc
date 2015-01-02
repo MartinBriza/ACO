@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ant.png</file>
+        <file>Line.qml</file>
+    </qresource>
+</RCC>
